@@ -6,7 +6,7 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Ivan Roussev, I am a Software Developer Based in Canada
+  Hi, I'm Ivan Roussev, I am Currently an IT student at British Columbia Institute of Technology
   <br>
 
   <br>
@@ -37,7 +37,6 @@
 
 <p align="center">
 <a href="https://github.com/IvanRoussev/">
-      <img width=325  src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRoussev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-" />
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRoussev&layout=compact" />
  </a>
 </p>
