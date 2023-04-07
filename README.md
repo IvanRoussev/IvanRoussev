@@ -32,15 +32,15 @@
 
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2> -->
 <br>
 
 <p align="center">
 <a href="https://github.com/IvanRoussev/">
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRoussev&layout=compact&theme=react&show_icons=true" />
  </a>
-<a href="https://github.com/IvanRoussev/">
+<!-- <a href="https://github.com/IvanRoussev/">
       <img width=450  src="https://github-readme-stats.vercel.app/api?username=IvanRoussev&theme=react&show_icons=true" />
- </a>
+ </a> -->
 
 </p>
