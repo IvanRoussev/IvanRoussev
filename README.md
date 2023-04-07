@@ -40,7 +40,7 @@
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRoussev&layout=compact&theme=react&show_icons=true" />
  </a>
 <a href="https://github.com/IvanRoussev/">
-      <img width=500  src="https://github-readme-stats.vercel.app/api?username=IvanRoussev&theme=react&show_icons=true" />
+      <img width=450  src="https://github-readme-stats.vercel.app/api?username=IvanRoussev&theme=react&show_icons=true" />
  </a>
 
 </p>
