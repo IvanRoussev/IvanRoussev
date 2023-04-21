@@ -6,7 +6,7 @@
    
 ### About Me:
 <p align="center">
-  Hi, I'm <b>Ivan Roussev</b>, I am Currently an IT student at British Columbia Institute of Technology Studing a wide variety of aspects. From developing programs to deploying services on aws, containerized systems using Docker. Connecting programs to local MySQL databses or cloud databases AWS RDS.
+  Hi, I'm <b>Ivan Roussev</b>, I recently graduated from British Columbia Institute of Technology Studing a wide variety of aspects. From developing programs to deploying services on aws, containerized systems using Docker. Connecting programs to local MySQL databses or cloud databases AWS RDS.
   <br>
 
   <br>
