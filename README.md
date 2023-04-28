@@ -26,7 +26,10 @@
   <img title="HTML5" height="25" src="images/html5.svg">
   <img title="CSS" height="25" src="images/css.svg">
   <img title="Javascript" height="25" src="images/javascript.svg">
+  <img title="react" height="25" src="images/react-original.svg">
   <img title="Git" height="25" src="images/git-original.svg">
+  <img title="mysql" height="25" src="images/mysql.svg">
+
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
 
