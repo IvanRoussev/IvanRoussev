@@ -25,7 +25,7 @@
   <img title="Python" height="25" src="images/python-original.svg">
   <img title="Javascript" height="25" src="images/javascript.svg">
   <img title="react" height="25" src="images/react-original.svg">
-  <img title="mysql" height="25" src="images/mysql.svg">
+  <img title="mysql" height="25" src="images/mysql-logo.svg">
   <img title="aws" height="25" src="images/aws.svg">
   <img title="terraform" height="25" src="images/terraform.svg">
   <img title="terraform" height="25" src="images/jenkins.svg">
