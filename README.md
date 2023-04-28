@@ -29,6 +29,7 @@
   <img title="react" height="25" src="images/react-original.svg">
   <img title="Git" height="25" src="images/git-original.svg">
   <img title="mysql" height="25" src="images/mysql.svg">
+  <img title="aws" height="25" src="images/aws.svg">
 
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
