@@ -28,11 +28,12 @@
   <img title="mysql" height="25" src="images/icons8-mysql-logo(2).svg">
   <img title="aws" height="25" src="images/aws.svg">
   <img title="terraform" height="25" src="images/terraform.svg">
-  <img title="terraform" height="25" src="images/jenkins.svg">
-  <img title="CSS" height="25" src="images/docker.svg">
+  <img title="jenkins" height="25" src="images/jenkins.svg">
+  <img title="docker" height="25" src="images/docker.svg">
   <img title="Git" height="25" src="images/git-original.svg">
   <img title="HTML5" height="25" src="images/html5.svg">
   <img title="CSS" height="25" src="images/css.svg">
+  <img title="powerapps" height="25" src="images/power-apps.svg">
 
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
