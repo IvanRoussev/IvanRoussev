@@ -27,6 +27,9 @@
   <img title="react" height="25" src="images/react-original.svg">
   <img title="mysql" height="25" src="images/mysql.svg">
   <img title="aws" height="25" src="images/aws.svg">
+  <img title="terraform" height="25" src="images/terraform.svg">
+  <img title="terraform" height="25" src="images/jenkins.svg">
+  <img title="CSS" height="25" src="images/docker.svg">
   <img title="Git" height="25" src="images/git-original.svg">
   <img title="HTML5" height="25" src="images/html5.svg">
   <img title="CSS" height="25" src="images/css.svg">
