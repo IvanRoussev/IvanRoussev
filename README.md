@@ -6,7 +6,7 @@
    
 ### About Me:
 <p align="center">
-  Hi, I'm <b>Ivan Roussev</b>, I have always had a interest in software from the first time I wrote hello world to today where I fix real world p
+  Hi, I'm <b>Ivan Roussev</b>, I have always had a interest in software from the first time I wrote hello world to to work day where I fix real world problems. I hard to produce high value products and I am confident I can help solve problems
   <br>
 
   <br>
