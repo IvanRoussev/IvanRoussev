@@ -6,7 +6,7 @@
    
 ### About Me:
 <p align="center">
-  Hi, I'm <b>Ivan Roussev</b>, ... Work in progress
+  Hi, I'm <b>Ivan Roussev</b> Work in progress...
   <br>
 
   <br>
